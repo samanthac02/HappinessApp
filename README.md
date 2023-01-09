@@ -1,4 +1,4 @@
-# Unnamed Happiness App's Code
+# Happiness App
 
 Current Location With GPS is an Xcode project that shows the user's current location with GPS (as the title suggests)
 
