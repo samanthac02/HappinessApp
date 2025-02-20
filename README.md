@@ -1,4 +1,4 @@
-# Happiness App
+# Proof of Concept Apps
 
 Current Location With GPS is an Xcode project that shows the user's current location with GPS (as the title suggests)
 
